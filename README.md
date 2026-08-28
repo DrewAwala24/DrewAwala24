@@ -27,15 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.ai/api?username=DrewAwala24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.ai/api/top-langs/?username=DrewAwala24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <sub>✨ "Let's Connect." ✨</sub>
 </div>
