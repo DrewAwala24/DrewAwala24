@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="736" alt="technology GIF" src="https://github.com/user-attachments/assets/1164f08f-f07a-440e-9add-2b428e250120" />
+<img width="100%" alt="technology GIF" src="https://github.com/user-attachments/assets/1164f08f-f07a-440e-9add-2b428e250120" />
 
 # ⚡ Yello, I'm AnDrew  
 ### 🌟 Big Anime Fan & Tech Enthusiast
@@ -12,7 +12,7 @@
 ---
 
 ### 💻 About Me
-* **Student & Developer:** Studying Business Information Technology in Kenya.
+* **Student & Developer:** Studying Computer Science.
 * **Tracks:** Pursuing network engineering, systems administration, database management, and backend software development.
 * **Current Focus:** Building scalable backend applications, automating network tasks, and managing Linux server environments.
 
