@@ -1,7 +1,9 @@
 <div align="center">
 
-# ⚡ Yello, I'm AnDrew 
-# I love anime
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Anime Banner" width="100%" />
+
+# ⚡ Yello, I'm AnDrew  
+### 🌟 Big Anime Fan & Code Enthusiast
 
 <img src="https://komarev.com/ghpvc/?username=DrewAwala24&color=ff5555&style=flat-square" alt="Profile views" />
 
@@ -10,7 +12,7 @@
 ---
 
 ### 💻 About Me
-* **Student & Developer:** Studying Business Information Technology in Kenya.
+* **Student & Developer:** Studying Computer Science.
 * **Tracks:** Pursuing network engineering, systems administration, database management, and backend software development.
 * **Current Focus:** Building scalable backend applications, automating network tasks, and managing Linux server environments.
 
