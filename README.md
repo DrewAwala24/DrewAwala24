@@ -1,9 +1,9 @@
 <div align="center">
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=456411743508119281" height="295" width="345" frameborder="0" scrolling="no"></iframe>
+<img src="./b83d41d0c74b49789bf18378d706c10d.jpg" alt="Profile Banner" width="100%" />
 
 # ⚡ Yello, I'm AnDrew  
-### 🌟 Big Anime Fan & Code Enthusiast
+### 🌟 Big Anime Fan & Tech Enthusiast
 
 <img src="https://komarev.com/ghpvc/?username=DrewAwala24&color=ff5555&style=flat-square" alt="Profile views" />
 
@@ -23,7 +23,7 @@
 * **Languages & Notebooks:** C#, Java, SQL, Python, Jupyter Notebooks, Bash
 * **Frameworks & Runtimes:** Spring Boot, .NET, Android Studio, Capacitor
 * **Databases & Tools:** Microsoft SQL Server, MySQL, JetBrains DataGrip, Git & GitHub, WordPress
-* **Networking & Systems:** Cisco Packet Tracer, Wireshark, Linux Mint, Cron, Terminal Automation
+* **Networking & Systems:** Cisco Packet Tracer, Wireshark, Linux Mint, Arch, Cron, Terminal Automation
 
 ---
 
@@ -37,5 +37,5 @@
 ---
 
 <div align="center">
-  <sub>✨ "What a wonderful day." ✨</sub>
+  <sub>✨ "Lets Connect." ✨</sub>
 </div>
