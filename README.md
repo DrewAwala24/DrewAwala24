@@ -1,7 +1,6 @@
-<img width="500" height="282" alt="b83d41d0c74b49789bf18378d706c10d" src="https://github.com/user-attachments/assets/5046e0c1-51a3-42c0-8e74-5529d76aed96" />
 <div align="center">
 
-<img src="./b83d41d0c74b49789bf18378d706c10d.jpg" alt="Profile Banner" width="100%" />
+<img width="500" alt="Profile Banner" src="https://github.com/user-attachments/assets/5046e0c1-51a3-42c0-8e74-5529d76aed96" />
 
 # ⚡ Yello, I'm AnDrew  
 ### 🌟 Big Anime Fan & Tech Enthusiast
@@ -13,7 +12,7 @@
 ---
 
 ### 💻 About Me
-* **Student & Developer:** Studying Computer Science.
+* **Student & Developer:** Studying Business Information Technology in Kenya.
 * **Tracks:** Pursuing network engineering, systems administration, database management, and backend software development.
 * **Current Focus:** Building scalable backend applications, automating network tasks, and managing Linux server environments.
 
@@ -38,5 +37,5 @@
 ---
 
 <div align="center">
-  <sub>✨ "Lets Connect." ✨</sub>
+  <sub>✨ "Let's Connect." ✨</sub>
 </div>
