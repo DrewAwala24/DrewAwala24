@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Anime Banner" width="100%" />
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=456411743508119281" height="295" width="345" frameborder="0" scrolling="no"></iframe>
 
 # ⚡ Yello, I'm AnDrew  
 ### 🌟 Big Anime Fan & Code Enthusiast
