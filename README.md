@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img width="736" height="414" alt="technology GIF" src="https://github.com/user-attachments/assets/1164f08f-f07a-440e-9add-2b428e250120" />
+<img width="736" alt="technology GIF" src="https://github.com/user-attachments/assets/1164f08f-f07a-440e-9add-2b428e250120" />
 
 # ⚡ Yello, I'm AnDrew  
 ### 🌟 Big Anime Fan & Tech Enthusiast
