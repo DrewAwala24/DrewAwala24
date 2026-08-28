@@ -2,10 +2,9 @@
 
 <img width="100%" alt="technology GIF" src="https://github.com/user-attachments/assets/1164f08f-f07a-440e-9add-2b428e250120" />
 
-# ⚡ Yello, I'm AnDrew  
-### 🌟 Big Anime Fan & Tech Enthusiast
+# ⚡ Yelloo, I'm Andrew  
+### 🌟 I Love Anime & Tech Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=DrewAwala24&color=ff5555&style=flat-square" alt="Profile views" />
 
 </div>
 
