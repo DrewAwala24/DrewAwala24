@@ -12,7 +12,7 @@
 
 ### 💻 About Me
 * **Student & Developer:** Studying Computer Science.
-* **Tracks:** Pursuing network engineering, systems administration, data science, database management, and backend software development.
+* **Tracks:** Pursuing network engineering, systems administration, data science, SQL, and backend software development.
 * **Current Focus:** Building scalable backend applications, automating network tasks, and managing Linux server environments.
 
 ---
